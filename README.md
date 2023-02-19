@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+
+My Name is Nehemia Gueldi, you can call me Nehemia or Nehem
+
+Welcome to my Github portfolio! Here you'll find a selection of my projects that showcase my skills in software development and passion for creating innovative solutions.
+
+In this portfolio, you'll find a mix of personal and professional projects that demonstrate my versatility and adaptability in different programming languages and frameworks. 
+
+In addition to my technical skills, I also value clean and readable code. I believe that code should not only be functional but also easy to understand and maintain. I always strive to write code that is well-documented and follows industry best practices.
+
+Thank you for taking the time to review my portfolio. If you have any questions or would like to learn more about my work, please don't hesitate to reach out!
 
 <!--
 **nehemiagueldi/nehemiagueldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
