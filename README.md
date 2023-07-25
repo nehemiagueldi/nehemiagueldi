@@ -14,7 +14,7 @@ Thank you for taking the time to explore my Github portfolio. If you have any qu
 
 
 ## 🛠 Favorite Tech Stacks
-**⚙️ Technologies** : React, Laravel, Next js, Node js, Tailwind CSS
+**⚙️ Technologies** : React, Laravel, Nuxt js, Node js, Tailwind CSS
 
 **✨ Programming Language** : HTML, CSS, Javascript, Typescript, PHP, SQL
 
