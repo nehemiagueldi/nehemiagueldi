@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-My Name is Nehemia Gueldi, you can call me Nehemia or Nehem, My major is informatics, and I'm a Computer Science Graduate from [**Multimedia Nusantara University**](https://www.umn.ac.id).
+My Name is Nehemia Gueldi, you can call me Nehemia or Nehem and I'm a Computer Science Graduate from [**Multimedia Nusantara University**](https://www.umn.ac.id).
 
 Welcome to my Github portfolio! Here you'll find a selection of my projects that showcase my skills in software development and passion for creating innovative solutions.
 
